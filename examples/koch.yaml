@@ -1,0 +1,6 @@
+name: Koch Curve
+description: A fractal curve resembling a snowflake
+axiom: F
+rules:
+  F: F+F-F-F+F
+angle: 90

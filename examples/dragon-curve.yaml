@@ -1,0 +1,7 @@
+name: Dragon Curve
+description: A fractal curve resembling a dragon
+axiom: FX
+rules:
+  X: X+YF+
+  Y: -FX-Y
+angle: 90

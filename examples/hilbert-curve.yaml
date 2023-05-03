@@ -1,0 +1,7 @@
+name: Hilbert Curve
+description: A fractal curve resembling a space-filling curve
+axiom: A
+rules:
+  A: -BF+AFA+FB-
+  B: +AF-BFB-FA+
+angle: 90

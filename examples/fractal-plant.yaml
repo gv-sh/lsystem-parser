@@ -1,0 +1,7 @@
+name: Fractal Plant
+description: A fractal plant resembling a tree or bush
+axiom: X
+rules:
+  X: F-[[X]+X]+F[+FX]-X
+  F: FF
+angle: 25

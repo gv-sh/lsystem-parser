@@ -1,0 +1,7 @@
+name: Sierpinski Triangle
+description: A fractal pattern resembling a triangle
+axiom: A
+rules:
+  A: B-A-B
+  B: A+B+A
+angle: 60
